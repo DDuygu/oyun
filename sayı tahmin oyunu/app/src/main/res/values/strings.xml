@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="start_game">Start Game</string>
+    <string name="ok">OK</string>
+    <string name="enter_your_prediction">Enter your prediction</string>
+    <string name="success">Success</string>
+    <string name="wrong">Wrong number</string>
+    <string name="must_number">You must enter a number</string>
+    <string name="game_over">Game Over</string>
+</resources>
